@@ -39,12 +39,13 @@ def get_fibonacci_series(num):
         fibonacci_series.append(next_item)
     return fibonacci_series    
     
+ #git commit
     
 #main function to call fibonacci funtion
 # def main():
 #     number = int(input("Enter the number: "))
 #     fab = fibonacci(number)
-#     nofap = get_fibonacci_series(number)
-#     print(nofap)
+#     nofab = get_fibonacci_series(number)
+#     print(nofab)
     
 # main()
